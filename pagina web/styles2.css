@@ -1,0 +1,41 @@
+/* Segunda version de estilos: Diseño clasico con navegacion vertical */
+
+.version2 body {
+    font-family: "Times New Roman", serif;
+    background-color: #fff8dc;
+    color: #333;
+}
+
+.version2 header {
+    background-color: #8b0000;
+    color: white;
+    padding: 15px;
+    text-align: left;
+}
+
+.version2 nav ul {
+    background: #b22222;
+    padding: 10px;
+    list-style: none;
+    width: 200px;
+}
+
+.version2 nav ul li {
+    padding: 10px;
+}
+
+.version2 nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Diferentes estilos en la tabla */
+.version2 table {
+    border: 1px solid black;
+    background: #ffdab9;
+}
+
+.version2 th, .version2 td {
+    border: 1px solid black;
+    padding: 8px;
+}
